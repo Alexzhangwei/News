@@ -1,0 +1,100 @@
+<view class="item" bindtap="seeDetail">
+  <view class="title">开工红包哪家强？阿里最壕，腾讯像春运</view>
+  <view class="pic">
+    <image src="/images/news/1.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/2.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/3.jpg" style="width:30%;height:69px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>志趣科技</text>
+       <text>48评论</text>
+       <text>6分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>
+
+<view class="item" bindtap="seeDetail">
+  <view class="title">C1驾驶证使用新规定（2017），你了解吗？</view>
+  <view class="pic">
+    <image src="/images/news/4.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/5.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/6.jpg" style="width:30%;height:69px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>我们都爱SUV</text>
+       <text>19评论</text>
+       <text>16分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>
+
+<view class="item" bindtap="seeDetail">
+  <view class="title">洗澡是先洗头还是先洗身体？</view>
+  <view class="pic">
+    <image src="/images/news/7.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/8.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/9.jpg" style="width:30%;height:69px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>头条回答</text>
+       <text>148评论</text>
+       <text>61分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>
+
+<view class="item" bindtap="seeDetail">
+  <view class="title">年后出门闯红灯别慌，新交规规定这4种情况系，既不扣分也不罚款？</view>
+  <view class="pic">
+    <image src="/images/news/10.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/11.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/12.jpg" style="width:30%;height:69px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>爱车族</text>
+       <text>44评论</text>
+       <text>126分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>
+
+
+<view class="item" bindtap="seeDetail">
+  <view class="title">开工红包哪家强？阿里最壕，腾讯像春运</view>
+  <view class="pic">
+    <image src="/images/news/1.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/2.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/3.jpg" style="width:30%;height:69px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>志趣科技</text>
+       <text>48评论</text>
+       <text>6分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>

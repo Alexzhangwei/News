@@ -1,0 +1,40 @@
+/* 新闻推荐样式 */
+.item{
+  margin:10px;
+}
+.title{
+  color: #444444;
+  font-weight: bold;
+  font-size: 18px;
+}
+.pic image{
+  margin-right: 10px;
+}
+.info{
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  color: #999999;
+}
+.desc{
+  width:90%;
+}
+.desc text{
+  margin-right: 10px;
+}
+.opr{
+  width:10%;
+}
+.opr view{
+  width:17px;
+  height: 12px;
+  border:1px solid #cccccc;
+  line-height: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+.hr{
+  border:1px solid #cccccc;
+  opacity: 0.2;
+  margin-top:10px;
+}

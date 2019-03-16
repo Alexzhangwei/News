@@ -1,0 +1,96 @@
+<view class="content">
+  <view class="bg">
+  <button  bindgetuserinfo='isGetinfo'   style='width:200rpx;color:#999;display:{{isShow?"block":"none"}}' open-type='getUserInfo'>请先登录</button>
+    <view class="head">
+       <view class="headIcon">
+          <image src="{{userInfo.avatarUrl}}" style="width:70px;height:70px;"></image>
+       </view>
+       <view class="login">
+          {{userInfo.nickName}}
+       </view>
+       <view class="detail">
+         <text>></text>
+       </view>
+    </view>
+    <view class="count">
+       <view class="desc">
+         <view>10</view>
+         <view>关注</view>
+       </view>
+       <view class="desc">
+         <view>267</view>
+         <view>粉丝</view>
+       </view>
+       <view class="desc" style="border:0px;">
+         <view>300</view>
+         <view>7天访客</view>
+       </view>
+    </view>
+  </view>
+
+  <view class="nav">
+    <view class="nav-item">
+      <view>
+         <image src="/images/icon/shoucang.jpg" style="width:23px;height:23px;"></image>
+      </view>
+      <view>收藏</view>
+    </view>
+    <view class="nav-item">
+      <view>
+         <image src="/images/icon/lishi.jpg" style="width:23px;height:23px;"></image>
+      </view>
+      <view>历史</view>
+    </view>
+    <view class="nav-item">
+      <view>
+         <image src="/images/icon/yejian.jpg" style="width:23px;height:23px;"></image>
+      </view>
+      <view>夜间</view>
+    </view>
+  </view>
+  <view class="hr"></view>
+  <view class="item">
+     <view class="title">消息通知</view>
+     <view class="detail2">
+       <text>></text>
+     </view>
+  </view>
+
+  <view class="hr"></view>
+  <view class="item">
+     <view class="title">头条商城</view>
+     <view class="detail2">
+       <text>点击速领200元新年红包 ></text>
+     </view>
+  </view>
+  <view class="line"></view>
+  <view class="item">
+     <view class="title">京东特供</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+
+  <view class="hr"></view>
+  <view class="item">
+     <view class="title">我也爆料</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+  <view class="line"></view>
+  <view class="item">
+     <view class="title">用户反馈</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+   <view class="line"></view>
+  <view class="item" bindtap="setup">
+     <view class="title">系统设置</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+<view class="hr"></view>
+</view>

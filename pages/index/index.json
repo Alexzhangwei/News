@@ -1,0 +1,5 @@
+{
+  "usingComponents":{
+    "news":"/component/news/index"
+  }
+}

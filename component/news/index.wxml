@@ -1,0 +1,19 @@
+<view class="item" bindtap="seeDetail" wx:for="{{listData}}" wx:key="index">
+  <view class="title">{{item.title}}</view>
+  <view class="pic">
+    <image src="{{item.imgs[0]}}" style="width:30%;height:69px;"></image>
+    <image src="{{item.imgs[1]}}" style="width:30%;height:69px;"></image>
+    <image src="{{item.imgs[2]}}" style="width:30%;height:69px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>{{item.flagName}}</text>
+       <text>{{item.comment}}评论</text>
+       <text>{{item.time}}分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>

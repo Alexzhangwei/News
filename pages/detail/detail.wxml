@@ -1,0 +1,48 @@
+<view class="content">
+  <view class="title">开工红包哪家强？阿里最壕，腾讯像春运</view>
+  <view class="desc">
+    <view class="publish">
+      <view>
+        <image src="/images/icon/zqkj.png" style="width:36px;height:36px;"></image>
+      </view>
+      <view class="company">
+        <view>志趣科技</view>
+        <view class="attr">
+          <text class="mark">原创</text>
+          <text class="time">02-05 21:07</text>
+        </view>
+      </view>
+    </view>
+    <view class="btn">
+      <image src="/images/icon/operate.jpg" style="width:70px;height:27px;"></image>
+    </view>
+  </view>
+  <view class="article">
+    <view>
+      明天就正月初十了，基本上各大公司也开始开工了，而一些大公司新年开工，居然还会发放开工红包，为什么我的公司没有？
+    </view>
+    <view>
+      明天就正月初十了，基本上各大公司也开始开工了，而一些大公司新年开工，居然还会发放开工红包，为什么我的公司没有？
+    </view>
+    <view>
+      明天就正月初十了，基本上各大公司也开始开工了，而一些大公司新年开工，居然还会发放开工红包，为什么我的公司没有？
+    </view>
+    <view>
+      明天就正月初十了，基本上各大公司也开始开工了，而一些大公司新年开工，居然还会发放开工红包，为什么我的公司没有？
+    </view>
+    <view>
+      明天就正月初十了，基本上各大公司也开始开工了，而一些大公司新年开工，居然还会发放开工红包，为什么我的公司没有？
+    </view>
+    <view>
+      明天就正月初十了，基本上各大公司也开始开工了，而一些大公司新年开工，居然还会发放开工红包，为什么我的公司没有？
+    </view>
+  </view>
+   <view class="comment">
+    <view class="write"><input type="text" placeholder="写评论..."/></view>
+    <view class="opr">
+       <image src="/images/icon/pinglun.jpg" style="width:31px;height:26px;"></image>
+       <image src="/images/icon/shoucang-1.jpg" style="width:31px;height:26px;"></image>
+       <image src="/images/icon/fenxiang.jpg" style="width:31px;height:26px;"></image>
+    </view>
+  </view>
+</view>

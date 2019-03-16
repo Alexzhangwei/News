@@ -1,0 +1,79 @@
+  <view class="hr"></view>
+  <view class="item">
+     <view class="title">编辑资料</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+  <view class="line"></view>
+  <view class="item">
+     <view class="title">账号和绑定设置</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+    <view class="line"></view>
+  <view class="item">
+     <view class="title">黑名单</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+  <view class="hr"></view>
+    <view class="item">
+     <view class="title">清除缓存</view>
+     <view class="detail2">
+       <text>12.95MB ></text>
+     </view>
+  </view>
+  <view class="line"></view>
+  <view class="item">
+     <view class="title">字体大小</view>
+     <view class="detail2">
+       <text>中 ></text>
+     </view>
+  </view>
+    <view class="line"></view>
+  <view class="item">
+     <view class="title">列表显示摘要</view>
+     <view class="detail2">
+       <switch type="switch" />
+     </view>
+  </view>
+<view class="line"></view>
+   <view class="item">
+     <view class="title">非WIFI网络流量</view>
+     <view class="detail2">
+       <text>最佳效果（下载大图）</text>
+     </view>
+  </view>
+  <view class="line"></view>
+  <view class="item">
+     <view class="title">非WIFI网络播放速度</view>
+     <view class="detail2">
+       <text>提醒一次</text>
+     </view>
+  </view>
+    <view class="line"></view>
+    <view class="item">
+     <view class="title">推送通知</view>
+     <view class="detail2">
+       <switch type="switch" />
+     </view>
+  </view>
+  <view class="hr"></view>
+  <view class="item">
+     <view class="title">离线下载</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
+  <view class="line"></view>
+  <view class="item">
+     <view class="title">检查版本</view>
+     <view class="detail2">
+       <text> 6.0.0</text>
+     </view>
+  </view>
+   <view class="line"></view>
+   <button class="btn">退出登录</button>
